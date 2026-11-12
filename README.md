@@ -1,4 +1,4 @@
-# hollyhr-com
+# HollyHR
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,151 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-hollyhr-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://hollyhr.com/
+HollyHR provides simple HR software for small UK teams, offering people records, holiday, sickness, document management and onboarding in one place. It is free for up to 10 active employees and targets small businesses seeking an easy-to-use HR solution.
+
+**Areas:** HR · SaaS · UK · Small Business · Payroll
+
+## HollyHR on APIs.io
+
+Everything profiled for HollyHR is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/hollyhr-com/](https://apis.io/providers/hollyhr-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (12)
+
+- [HollyHR Hollyhr API](https://apis.io/apis/hollyhr-com/hollyhr-com-hollyhr-api/) — The Hollyhr API from HollyHR — 1 operation(s) for hollyhr.
+- [HollyHR MCP API](https://apis.io/apis/hollyhr-com/hollyhr-com-mcp-api/) — The Mcp API from HollyHR — 1 operation(s) for mcp.
+- [HollyHR Me API](https://apis.io/apis/hollyhr-com/hollyhr-com-me-api/) — The Me API from HollyHR — 1 operation(s) for me.
+- [HollyHR Metadata API](https://apis.io/apis/hollyhr-com/hollyhr-com-metadata-api/) — The Metadata API from HollyHR — 1 operation(s) for metadata.
+- [HollyHR Org Units API](https://apis.io/apis/hollyhr-com/hollyhr-com-org-units-api/) — The Org Units API from HollyHR — 1 operation(s) for org units.
+- [HollyHR Payroll Readiness Export API](https://apis.io/apis/hollyhr-com/hollyhr-com-payroll-readiness-export-api/) — The Payroll Readiness Export API from HollyHR — 1 operation(s) for payroll readiness export.
+- [HollyHR People API](https://apis.io/apis/hollyhr-com/hollyhr-com-people-api/) — The People API from HollyHR — 7 operation(s) for people.
+- [HollyHR Reference API](https://apis.io/apis/hollyhr-com/hollyhr-com-reference-api/) — The Reference API from HollyHR — 1 operation(s) for reference.
+- [HollyHR Sse Disabled API](https://apis.io/apis/hollyhr-com/hollyhr-com-sse-disabled-api/) — The Sse Disabled API from HollyHR — 1 operation(s) for sse disabled.
+- [HollyHR Time Off API](https://apis.io/apis/hollyhr-com/hollyhr-com-time-off-api/) — The Time Off API from HollyHR — 1 operation(s) for time off.
+- [HollyHR Webhooks API](https://apis.io/apis/hollyhr-com/hollyhr-com-webhooks-api/) — The Webhooks API from HollyHR — 8 operation(s) for webhooks.
+- [HollyHR Working Patterns API](https://apis.io/apis/hollyhr-com/hollyhr-com-working-patterns-api/) — The Working Patterns API from HollyHR — 1 operation(s) for working patterns.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Hollyhr Com Webhooks](https://apis.io/asyncapis/hollyhr-com/hollyhr-com-webhooks/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetWebhooksWebhookidHealthResponse](https://apis.io/schemas/hollyhr-com/hollyhr-com-get-webhooks-webhookid-health-response/)
+- [PatchPeoplePersonidEmploymentRequest](https://apis.io/schemas/hollyhr-com/hollyhr-com-patch-people-personid-employment-request/)
+- [PostApiMcpRequest](https://apis.io/schemas/hollyhr-com/hollyhr-com-post-api-mcp-request/)
+- [PostPeoplePersonidEmploymentHistoryRequest](https://apis.io/schemas/hollyhr-com/hollyhr-com-post-people-personid-employment-history-request/)
+- [PostPeopleRequest](https://apis.io/schemas/hollyhr-com/hollyhr-com-post-people-request/)
+- [PostWebhooksRequest](https://apis.io/schemas/hollyhr-com/hollyhr-com-post-webhooks-request/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Hollyhr Com Context](https://apis.io/jsonld/hollyhr-com/hollyhr-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [HollyHR API Rules](https://apis.io/rules/hollyhr-com/hollyhr-com-rules/)
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [HollyHR Authentication](https://apis.io/security/hollyhr-com/hollyhr-com-authentication/)
+- [HollyHR Domain Security](https://apis.io/security/hollyhr-com/hollyhr-com-domain-security/)
+- [HollyHR Trust Center](https://apis.io/security/hollyhr-com/hollyhr-com-trust-center/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [HollyHR Plans Pricing](https://apis.io/plans/hollyhr-com/hollyhr-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [HollyHR Rate Limits](https://apis.io/rate-limits/hollyhr-com/hollyhr-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.hollyhr.com/)
+- [Documentation](https://developers.hollyhr.com/)
+- [Getting started](https://developers.hollyhr.com/quickstart)
+- [API reference](https://developers.hollyhr.com/llms.txt)
+- [Pricing](https://www.hollyhr.com/pricing)
+- [Support](https://www.hollyhr.com/help)
+- [Changelog](https://developers.hollyhr.com/changelog)
+- [Security](https://www.hollyhr.com/security)
+- [Compliance](https://www.hollyhr.com/security)
+- [Terms of service](https://www.hollyhr.com/terms)
+- [Privacy policy](https://www.hollyhr.com/privacy)
+- [GitHub](https://github.com/hollyhr)
+
+## API Evangelist rating
+
+**Kin Score 64.8** — strong · rubric 0.27.0 · scored 2026-11-11
+
+| Facet | Score |
+|---|---|
+| Discoverability | 71.4 |
+| Contract quality | 61.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 39.5 |
+| Developer ergonomics | 54.8 |
+| Access clarity | 75.8 |
+
+**Agent readiness 45.2** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | documented (partial credit) |
+| Error Semantics | — |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Employment & Payroll
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/hollyhr-com/](https://apis.io/providers/hollyhr-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for HollyHR: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/hollyhr-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
